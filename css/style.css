@@ -1290,7 +1290,6 @@ section .main_line p {
   border-radius: 4px 0 0 4px;
   outline: none;
   background-color: #C5CBCF26;
-  /* width: 2000px !important; */
 }
 
 .input input[type="text"] {
@@ -1314,14 +1313,5 @@ section .main_line p {
 
 .input input::placeholder {
   color: #42474c;
-  /* font-weight: 200; */
   opacity: 1;
 }
-
-
-
-/* 
-  25,393 
-  26,175
-  4,415 
-*/
